@@ -1,6 +1,6 @@
 import chess, chess.engine, pickle, sys, os, random
 
-ENGINE_PATH = r"C:\Users\yusuf\Documents\nextbigthing\stockfish\stockfish-windows-x86-64.exe"
+ENGINE_PATH = r"C:\Users\your_username\path_to_stockfish\stockfish.exe"
 DEPTH = 8
 LABELS = {
     chess.PAWN:"Pawn", chess.KNIGHT:"Knight",
